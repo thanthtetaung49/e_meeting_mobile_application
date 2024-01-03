@@ -1,0 +1,15 @@
+String  home = "Home";
+String meetings = "Meetings";
+String ranks = "Ranks";
+String departments = "Departments";
+String meetingType = "Meeting Type";
+String title = "စိုက်ပျိုးရေး၊ မွေးမြူရေးနှင့် ဆည်မြောင်းဝန်ကြီးဌာန";
+String meetingNo = "အစည်းအဝေးအမှတ်";
+String no = "စဉ်";
+String currentMeetingMember = "အစည်းအဝေးတက်ရောက်သူများ";
+String seeMore = "နောက်ဆက်တွဲအား ကြည့်ရန်";
+String governmentTitle = "ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော်အစိုးရ";
+String tinderTitle = "တင်ဒါကော်မတီလုပ်ငန်းညှိနှိုင်းအစည်းအဝေး";
+String tinderNo = "အမှတ်စဉ် (1)";
+String errorMessage = "Your credentials didn't match.";
+String currentMeetingMessage = "လတ်တလောတွင် အစည်းအဝေးမရှိသေးပါ။";
